@@ -4,8 +4,8 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading;
 using System.Threading.Tasks;
-using Core.Entities.Base;
-using Core.Repositories.Base;
+using Domain.Entities.Base;
+using Domain.Repositories.Base;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
